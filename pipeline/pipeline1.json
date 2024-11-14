@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Fail1",
+				"name": "Fail Activity",
 				"type": "Fail",
 				"dependsOn": [],
 				"userProperties": [],

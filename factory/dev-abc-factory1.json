@@ -1,0 +1,9 @@
+{
+	"name": "dev-abc-factory1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e37806e3-e806-4a97-ba05-d27ebb4e7423",
+		"tenantId": "4b97d221-0c12-4dcb-ba80-c180379c7017"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "qa-abc-factory1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d075444-16c4-4405-a63e-9fa9e34c9d1b",
+		"tenantId": "4b97d221-0c12-4dcb-ba80-c180379c7017"
+	}
+}
